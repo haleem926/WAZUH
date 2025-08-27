@@ -34,7 +34,7 @@ Connectez-vous à l'interface web de Wazuh avec un compte administrateur.
 
 Dans le terminal du Wazuh Manager :
 
-[image1 ](https://github.com/haleem926/WAZUH/blob/main/Image1.png)
+[image1 ]
 
  
 
