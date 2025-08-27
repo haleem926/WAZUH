@@ -34,7 +34,7 @@ Connectez-vous à l'interface web de Wazuh avec un compte administrateur.
 
 Dans le terminal du Wazuh Manager :
 
-
+image1 
 
  
 
